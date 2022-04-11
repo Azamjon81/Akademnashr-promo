@@ -5,7 +5,7 @@ body{
  letter-spacing: 0.5px;
 }
 
-*:focus{
+:focus{
   outline: 2px solid #FF7500;
   outline-offset: 3px;
 }
